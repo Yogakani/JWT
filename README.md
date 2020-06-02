@@ -1,3 +1,3 @@
 # JWT
-Spring Boot with Spring Security (JWT) and Hazlecast
+Spring Boot with Spring Security (JWT), Hazlecast and
 Testing : Cucumber with JUnit
